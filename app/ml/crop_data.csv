@@ -1,0 +1,33 @@
+location,temperature,soil_type,crop
+delhi,below 15,sandy,wheat
+delhi,below 15,clay,wheat
+delhi,15-25,sandy,maize
+delhi,15-25,clay,rice
+delhi,above 25,sandy,millet
+delhi,above 25,clay,sorghum
+
+mumbai,below 15,sandy,barley
+mumbai,15-25,sandy,maize
+mumbai,15-25,clay,rice
+mumbai,above 25,sandy,millet
+mumbai,above 25,clay,sorghum
+
+nagpur,below 15,sandy,barley
+nagpur,below 15,clay,wheat
+nagpur,15-25,sandy,maize
+nagpur,15-25,clay,rice
+nagpur,above 25,sandy,millet
+nagpur,above 25,clay,sorghum
+
+bangalore,below 15,sandy,wheat
+bangalore,15-25,sandy,maize
+bangalore,15-25,clay,rice
+bangalore,above 25,sandy,millet
+bangalore,above 25,clay,sorghum
+
+pune,below 15,sandy,wheat
+pune,below 15,clay,wheat
+pune,15-25,sandy,maize
+pune,15-25,clay,rice
+pune,above 25,sandy,millet
+pune,above 25,clay,sorghum
