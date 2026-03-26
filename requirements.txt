@@ -1,0 +1,66 @@
+# ===============================
+# FastAPI Backend
+# ===============================
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+
+# ===============================
+# API & Networking
+# ===============================
+requests
+httpx
+
+# ===============================
+# Data Handling
+# ===============================
+pandas
+numpy
+
+# ===============================
+# Machine Learning
+# ===============================
+scikit-learn
+joblib
+scipy
+
+# ===============================
+# Database
+# ===============================
+sqlalchemy
+sqlite-utils
+
+# ===============================
+# Visualization & Reports
+# ===============================
+matplotlib
+seaborn
+plotly
+
+# ===============================
+# Logging & Utilities
+# ===============================
+python-dotenv
+loguru
+
+# ===============================
+# Validation & Serialization
+# ===============================
+orjson
+ujson
+
+# ===============================
+# Optional (Future Expansion)
+# ===============================
+shap
+xgboost
+lightgbm
+statsmodels
+
+# ===============================
+# Development Tools
+# ===============================
+black
+isort
+pytest
